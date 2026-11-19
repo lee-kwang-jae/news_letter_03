@@ -14,13 +14,13 @@
   <title>매일전하는 이광재의원의 우리동네 하남소식</title>
   <meta property="og:type" content="website"/>
   <meta property="og:locale" content="ko_KR"/>
-  <meta property="og:url" content="https://lee-kwang-jae.github.io/news_letter_03/"/>
+  <meta property="og:url" content="https://lee-kwang-jae.github.io/news_letter_02/"/>
   <meta property="og:site_name" content="매일전하는 이광재의원의 우리동네 하남소식"/>
   <meta property="og:title" content="매일전하는 이광재의원의 우리동네 하남소식"/>
   <meta property="og:description" content="이광재 국회의원 의정활동, 하남 지역 주요 뉴스, 하남 맘카페 HOT 이슈, 공공기관 소식지 &amp; 하남 행사일정 달력"/>
-  <meta property="og:image" content="https://lee-kwang-jae.github.io/news_letter_03/images/thumbnail-MMDD.jpg?v=YYYYMMDD01"/>
-  <meta property="og:image:url" content="https://lee-kwang-jae.github.io/news_letter_03/images/thumbnail-MMDD.jpg?v=YYYYMMDD01"/>
-  <meta property="og:image:secure_url" content="https://lee-kwang-jae.github.io/news_letter_03/images/thumbnail-MMDD.jpg?v=YYYYMMDD01"/>
+  <meta property="og:image" content="https://lee-kwang-jae.github.io/news_letter_02/images/thumbnail-MMDD.jpg?v=YYYYMMDD01"/>
+  <meta property="og:image:url" content="https://lee-kwang-jae.github.io/news_letter_02/images/thumbnail-MMDD.jpg?v=YYYYMMDD01"/>
+  <meta property="og:image:secure_url" content="https://lee-kwang-jae.github.io/news_letter_02/images/thumbnail-MMDD.jpg?v=YYYYMMDD01"/>
   <meta property="og:image:type" content="image/jpeg"/>
   <meta property="og:image:width" content="1200"/>
   <meta property="og:image:height" content="630"/>
@@ -28,10 +28,10 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="매일전하는 이광재의원의 우리동네 하남소식"/>
   <meta name="twitter:description" content="이광재 국회의원 의정활동, 하남 지역 주요 뉴스, 하남 맘카페 HOT 이슈, 공공기관 소식지 &amp; 하남 행사일정 달력"/>
-  <meta name="twitter:image" content="https://lee-kwang-jae.github.io/news_letter_03/images/thumbnail-MMDD.jpg?v=YYYYMMDD01"/>
+  <meta name="twitter:image" content="https://lee-kwang-jae.github.io/news_letter_02/images/thumbnail-MMDD.jpg?v=YYYYMMDD01"/>
   <meta name="twitter:image:width" content="1200"/>
   <meta name="twitter:image:height" content="630"/>
-  <link rel="image_src" href="https://lee-kwang-jae.github.io/news_letter_03/images/thumbnail-MMDD.jpg?v=YYYYMMDD01"/>
+  <link rel="image_src" href="https://lee-kwang-jae.github.io/news_letter_02/images/thumbnail-MMDD.jpg?v=YYYYMMDD01"/>
   ```
 
 ---
